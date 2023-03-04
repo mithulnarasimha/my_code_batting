@@ -4,6 +4,7 @@ class AlarmClock
 	{
 		 if(vacation==false && (day==0 || day == 6))
   {
+   System.out.println("hello");
     return "10:00";
     
   }  
